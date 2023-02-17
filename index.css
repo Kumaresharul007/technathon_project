@@ -1,0 +1,32 @@
+.cartnavatar {
+    margin-left: auto;
+}
+
+.addnsub {
+    background-color: lightgrey;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+}
+
+.first:hover {
+    opacity: 0.4;
+}
+
+.second:hover {
+    opacity: 0.4;
+}
+
+.third:hover {
+    opacity: 0.4;
+}
+
+.fourth:hover {
+    opacity: 0.4;
+}
+
+ul a:hover {
+    text-decoration: underline;
+    transition: 0.3s;
+}
